@@ -1,0 +1,11 @@
+1. Aktifkan apache dan mysql dixampp
+2. Buka browser dan buka url http://localhost/phpmyadmin
+3. buat database degan nama databasenya pendaftaran_sekolah
+4. import database dengan file yang ada di folder project "pendaftaran_sekolah.sql"
+5. copykan folder project ke direktori htdocs "C:\xampp\htdocs"
+6. buka browser dan jalankan http://localhost/pendaftaran_sekolah
+
+akun login 
+super admin
+	user : admin
+	pass : admin
