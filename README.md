@@ -93,5 +93,3 @@ pendaftaran_sekolah/
 Aplikasi ini dibuat untuk keperluan pembelajaran dan dapat digunakan bebas oleh sekolah atau lembaga pendidikan dengan atau tanpa modifikasi.
 
 ---
-
-Jika Anda ingin saya menyesuaikan bagian struktur folder, nama database, atau file SQL secara spesifik berdasarkan isi file ZIP, saya bisa membukanya untuk Anda. Ingin saya bantu buka dan analisis isi file tersebut?
